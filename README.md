@@ -1,0 +1,2 @@
+# TryGo
+ First Go prog
